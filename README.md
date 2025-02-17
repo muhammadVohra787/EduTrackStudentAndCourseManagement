@@ -1,4 +1,4 @@
-**EduTrack: A MERN-Based Student & Course Management System**  
+ **EduTrack: A MERN-Based Student & Course Management System**  
 EduTrack is a full-stack web application built using the **MERN (MongoDB, Express, React, Node.js) stack**. It provides a seamless interface for students to enroll in courses and for administrators to manage student records securely. Features include **JWT authentication, RESTful API communication, and role-based access control**.
 
 ---
@@ -8,7 +8,6 @@ EduTrack is a full-stack web application built using the **MERN (MongoDB, Expres
 
 # 🎓 EduTrack - Student & Course Management System  
 
-![EduTrack Banner](https://via.placeholder.com/1000x400?text=EduTrack+-+Student+%26+Course+Management+System)  
 
 EduTrack is a **full-stack web application** built with the **MERN stack** that allows students to register for courses and enables administrators to manage student records. It features **secure authentication, database management with MongoDB, and a responsive React frontend**.  
 
@@ -18,12 +17,6 @@ EduTrack is a **full-stack web application** built with the **MERN stack** that 
 - 🔄 **Role-Based Access Control** - Separate views for students and administrators  
 - 📡 **RESTful API** - Efficient backend communication with Express.js  
 - 🎨 **Responsive UI** - Built using React with Material UI  
-
----
-
-## 📷 **Screenshots**
-![EduTrack Dashboard](https://via.placeholder.com/1000x500?text=Dashboard+Preview)
-![Student Enrollment](https://via.placeholder.com/1000x500?text=Student+Enrollment+Preview)
 
 ---
 
