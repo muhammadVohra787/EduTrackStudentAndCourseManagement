@@ -36,7 +36,7 @@ EduTrack is a **full-stack web application** built with the **MERN stack** that 
 ## 🏗 **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/edutrack.git
+git clone https://github.com/muhammadVohra787/EduTrackStudentAndCourseManagement.git edutrack
 cd edutrack
 ```
 
